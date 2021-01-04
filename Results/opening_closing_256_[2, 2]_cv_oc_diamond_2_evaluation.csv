@@ -1,0 +1,4 @@
+,Dataset,Accuracy,Model_Name
+0,train,1.0,"opening_closing_256_[2, 2]_cv_oc_diamond_2"
+1,validation,0.7973214387893677,"opening_closing_256_[2, 2]_cv_oc_diamond_2"
+2,test,0.7928571701049805,"opening_closing_256_[2, 2]_cv_oc_diamond_2"

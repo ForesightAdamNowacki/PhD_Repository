@@ -1,0 +1,4 @@
+,Dataset,Accuracy,Model_Name
+0,train,1.0,"dillatation_erosion_256_[5, 5]_cv_ed_square_1"
+1,validation,0.824999988079071,"dillatation_erosion_256_[5, 5]_cv_ed_square_1"
+2,test,0.831250011920929,"dillatation_erosion_256_[5, 5]_cv_ed_square_1"

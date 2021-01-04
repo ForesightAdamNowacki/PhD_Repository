@@ -1,0 +1,4 @@
+,Dataset,Accuracy,Model_Name
+0,train,1.0,reference_model_64
+1,validation,0.7973214387893677,reference_model_64
+2,test,0.7821428775787354,reference_model_64

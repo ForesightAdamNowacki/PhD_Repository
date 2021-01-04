@@ -1,0 +1,4 @@
+,Dataset,Accuracy,Model_Name
+0,train,0.999404788017273,"opening_closing_64_[5, 5]_cv_oc_square_2"
+1,validation,0.824999988079071,"opening_closing_64_[5, 5]_cv_oc_square_2"
+2,test,0.8214285969734192,"opening_closing_64_[5, 5]_cv_oc_square_2"
