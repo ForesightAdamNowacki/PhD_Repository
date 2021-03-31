@@ -1,0 +1,4 @@
+,Dataset,Accuracy,Model_Name,epochs,structuring_elements_depth,transormation_type,structuring_elements_type,structuring_elements_initsize,structuring_elements_step,morphological_transformation_mode,start_neurons,dense_neurons,batch_size,augmentation
+0,train,0.4235999882221222,big_grid_model_88,100,"[2, 2]",cv_oc,diamond,1,1,True,16,128,512,True
+1,validation,0.4124999940395355,big_grid_model_88,100,"[2, 2]",cv_oc,diamond,1,1,True,16,128,512,True
+2,test,0.4205000102519989,big_grid_model_88,100,"[2, 2]",cv_oc,diamond,1,1,True,16,128,512,True
