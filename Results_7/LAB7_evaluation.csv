@@ -1,0 +1,4 @@
+,Dataset,Accuracy,Model_Name,epochs,start_neurons,dense_neurons,batch_size,augmentation
+0,train,0.6342499852180481,LAB7,100,64,256,512,True
+1,validation,0.6234999895095825,LAB7,100,64,256,512,True
+2,test,0.6208999752998352,LAB7,100,64,256,512,True
